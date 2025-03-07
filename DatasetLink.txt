@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset?select=symbols_valid_meta.csv
+https://newsapi.org/docs/client-libraries/python
